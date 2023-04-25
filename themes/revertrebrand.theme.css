@@ -21,7 +21,7 @@
 /* Individual components: */
 
 /* Revert mentions */
-@import url('https://Goose-Nest.github.io/GT-RevertRebrand/src/components/mentions.css');
+/* @import url('https://Goose-Nest.github.io/GT-RevertRebrand/src/components/mentions.css'); */
 
 /* Revert reactions */
 @import url('https://Goose-Nest.github.io/GT-RevertRebrand/src/components/reactions.css');
@@ -39,7 +39,7 @@
 /* @import url('https://Goose-Nest.github.io/GT-RevertRebrand/src/components/userPopout.css'); */
 
 /* [Optional] Revert new role designs */
-@import url('https://Goose-Nest.github.io/GT-RevertRebrand/src/components/roles.css'); */
+/* @import url('https://Goose-Nest.github.io/GT-RevertRebrand/src/components/roles.css'); */
 
 /* General changes: */
 
